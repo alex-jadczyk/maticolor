@@ -45,12 +45,6 @@ input, textarea {
 .header-cover p {
 	padding-bottom: 2vw;
 }
-
-/*
-.cover-transparency {
-	background-color: rgba(0,0,0,0.71);
-}
-*/
 /*main*/
 #offer {
 	padding: 5vw;
@@ -88,7 +82,6 @@ input, textarea {
 .button__submit:hover {
 	background-color: #2979FF;
 }
-
 /*footer*/
 footer {
 	color: #FFF;
@@ -110,11 +103,11 @@ footer {
 .header-top li {
 	padding: 10px;
 }
-	.row {
-		display: flex;
-		align-items: baseline;
-	}
-	.header-cover {
-		height: 50vh;
-	}
+.row {
+	display: flex;
+	align-items: baseline;
+}
+.header-cover {
+	height: 50vh;
+}
 }
