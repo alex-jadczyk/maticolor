@@ -1,7 +1,7 @@
 # Maticolor
 Access this webpage here: https://alex-jadczyk.github.io/maticolor/
 
-This is an example webpage I coded for the company of my dad who sells wood paints. 
+This is an example webpage I coded for the company of my dad who sells wood paints. As he is growing and selling to big companies in Poland, he may, in future, invest in international sales.
 Right now he is using another website I made: https://paintingus.wordpress.com/
 
 ## What I like on this webpage:
